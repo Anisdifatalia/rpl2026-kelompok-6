@@ -1,6 +1,5 @@
-
 def main():
-    print("Aplikasi utama versi awal")
+    print("Aplikasi utama versi hasil penggabungan")
 
 
 if __name__ == "__main__":
